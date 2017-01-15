@@ -33,21 +33,31 @@ In a *DIFFERENT* terminal widow, execute these commands:
 
 #### Example # 1:
 
-* mongo ex1.js
+```
+mongo ex1.js
+```
 
 #### Example # 2:
 
-* mongo ex2.js
+```
+mongo ex2.js
+```
 
 #### Example # 3:
 
-* mongo ex3.js
+```
+mongo ex3.js
+```
 
 #### Example # 4:
 
-* mongo ex4.js
+```
+mongo ex4.js
+```
 
 #### Example # 5:
 
-* mongo ex5.js
+```
+mongo ex5.js
+```
 
