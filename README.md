@@ -29,7 +29,7 @@ mongod
 ```
 ### Step # 2 - Run the MongoDB Shell Scrips
 
-In a DIFFERENT terminal widow, execute these commands:
+In a *DIFFERENT* terminal widow, execute these commands:
 
 #### Example # 1:
 
@@ -43,9 +43,9 @@ In a DIFFERENT terminal widow, execute these commands:
 
 * mongo ex3.js
 
-#### Example # 3:
+#### Example # 4:
 
-* mongo ex3.js
+* mongo ex4.js
 
 #### Example # 5:
 
